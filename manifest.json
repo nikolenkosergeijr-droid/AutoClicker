@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Clicker",
+  "version": "1.0",
+  "description": "A simple auto clicker Chrome extension.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
